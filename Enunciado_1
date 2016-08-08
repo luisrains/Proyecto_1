@@ -1,0 +1,147 @@
+SISTEMA INTEGRAL DE GESTIÓN JURÍDICA.
+
+INTEGRANTES:
+●	Méndez Rains, Luis Alberto C.I.: 4810026.
+●	Riquelme Cano, Analía Riquelme C.I: 4213902.
+●	Villalba Bogado, Victor Misael C.I. 4144757.
+
+DESCRIPCIÓN:
+El Sistema Integral de Gestión Jurídica (SYSGJ) tiene como propósito guardar el historial de expedientes, que serían los legajos de actuaciones en formato de imágenes o pdfs siguiendo una secuencia cronológica y así poder generar un Expediente Dígital, también que realice un análisis e informe sobre qué tipo de juicio le es más conveniente al Estudio Jurídico de acuerdo a los gastos que estos generan para cada caso, teniendo así una comunicación permanente con el módulo de gestión de gastos judiciales del sistema con lo cual se podrá realizar este análisis por cada caso, con el fin de obtener ganancias en el menor tiempo posible. 
+El sistema permitirá que los usuarios del sistema realicen consultas sobre los clientes que posean un expediente activo o que cuenten con juicios ya finiquitados como también sobre clientes que simplemente cuentan con una ficha por haber solicitado asesoramiento en el Estudio. Este módulo además permitirá proporcionar un cálculo estimativo de los honorarios a cobrar  por parte del estudio jurídico el cual estará ligado al módulo de gestión de gastos judiciales para poder realizar dicho cálculo y ligado también al módulo de pagos de salarios del personal para poder realizar la distribución correcta.
+Aparte, como hemos mencionado, el sistema también contará con un módulo encargado del pago de salarios del personal del Estudio Jurídico, de acuerdo a la manera en que se distribuyen los mismos dentro de la empresa, por lo cual el sistema deberá realizar algún cálculo dependiendo de los datos que se anotarán independientemente para cada integrante (ej. salario más comisión por rendimiento para gestores y empleados, y cantidad de porcentaje por monto de juicio para honorario de abogados), cada personal podría ingresar su carga horaria, cantidad de gestiones realizadas y tipo de casos judiciales gestionadas entre otras. Dicho módulo estará en permanente conexión con el módulo de gestión de gastos judiciales para poder verificar cuáles fueron los gastos personales de cada integrante y así poder realizar una correcta remuneración por los servicios prestados.
+ Asimismo el sistema contará con un módulo que  se encargará de registrar los gastos realizados por el Estudio Jurídico ya sea por compra de útiles de oficina, insumos o gastos necesarios para el seguimiento de las gestiones judiciales al presentar los documentos o durante la tramitación de una demanda y así poder realizar un informe y brindarles posibles soluciones para algunos gastos que se pueden considerar innecesarios. Estos gastos que se realizan por cada usuario se registran en un historial para luego poder generar un informe de los gastos realizados por cada miembro del Estudio Jurídico. Estos gastos se describen en el historial de cada expediente para generar un informe de gastos por cada juicio a fin de facilitar su cálculo a la hora de negociar el finiquito del juicio.
+Además permitirá al usuario cargar datos del nuevo juicio que desea abrir para que el sistema le origine un análisis del estimativo de gastos en que normalmente se incurre para cada tipo de procesos judiciales y así brindarle una ayuda inmediata para la toma de decisiones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///****///
+Bueno lo que queremos que realice el sistema aparte de guardar un historial de un expediente,es decir a parte de que guarde solamente legajos de los expedientes, queremos que el sistema realice cálculos sobre fechas limites  que se tiene para contestar algunas resoluciones, que realice un análisis e informe de qué tipos de juicios le conviene más al estudio jurídico asesorar para obtener ganancias en poco tiempo. Necesitamos que los usuarios del sistema realicen consultas sobre los clientes que tengan un expediente activo, clientes que tuvieron algún caso ya finiquitado o sobre clientes que solo solicitaron asesoramiento en el estudio. Necesitamos también que el sistema pueda notificar a los usuarios del estudio jurídico sobre documentos que ya fueron atendidos y ya se encuentran en la página web del palacio de justicia en donde los abogados normalmente consultan sobre las respuestas obtenidas y los guardan en los expedientes.
+El sistema también deberá facilitar a los usuarios poder subir fotos o imágenes scaneadas de documentos que se deban agregar al expediente digital.
+
+Aparte de este módulo que se centrará netamente en las gestiones de expedientes, el sistema contará con un módulo encargado al pago de salarios, de acuerdo a la manera en que se distribuyen los mismos en el estudio jurídico, por lo cual el sistema deberá realizar alguna lógica para determinar la cantidad estimativa que deberá ser asignado a cada integrante del estudio.
+
+Otro módulo importante que tendrá el sistema, se encargará de registrar los gastos realizados por el estudio jurídico ya sea para compra de útiles de oficina, o gastos en las gestiones judiciales al presentar una demanda y así poder realizar un informe y brindarle posibles soluciones para algunos gastos innecesarios.
+
+***----perspectiva del abogado---***
+
+
+
+
+
+
+
+
+
+
+
+////*******////////
+
+
+Buenas profesor, quisiéramos hacer algunas acotaciones en cuanto a la presentación del tema.
+
+Primeramente con respecto a la parte del sistema que se encargará de la gestión de expedientes, queremos acotar de que al realizar el análisis e informe sobre que tipo de juicio le es más conveniente asesorar al Estudio Jurídico lo realizará de acuerdo a los gastos que estos generan para cada caso, teniendo así una comunicación permanente con el módulo de gestión de gastos judiciales del sistema con lo cual se podrá realizar este análisis por cada caso.
+
+También queremos acotar que con respecto al módulo del sistema encargado del pago de salarios, el sistema calculará los mismos de acuerdos a los datos cargados para cada personal los cuales podrían ser carga horaria, cantidad de gestiones realizadas y tipo de casos judiciales gestionadas entre otras. Además Dicho módulo estará en permanente conexión con el módulo de gestión de gastos judiciales para poder verificar cuales fueron los gastos personales de cada personal y así poder realizar una correcta remuneración por los servicios prestados.
+
+Quisiéramos saber si hay alguna acotación de su parte,  para poder así agregarlo a la presentación del tema, o si está todo correcto así poder presentarlo el día martes impreso. 
+
+Esperando una respuesta favorable nos despedimos atentamente. 
+
+Desde ya muchas gracias . Saludos Cordiales.-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++REQUERIMIENTOS FUNCIONALES
+Inicio y Finalización de Sesión:
+RF-1 El acceso al sistema por parte de un usuario se llevará a cabo proporcionando nombre de
+	usuario y la contraseña correspondiente.
+	RF-1.1 El nombre de usuario y contraseña deben existir en el sistema.
+	RF-1.2 El sistema deberá verificar que el usuario y contraseña coincidan con los registrados.
+RF-2 El sistema proporcionará la opción de finalización de sesión.
+
+Recuperación de contraseña:(se registro con correo?)
+	RF-3 El sistema permitirá al usuario recuperar su contraseña.
+		RF-3.1 El usuario debe proporcionar su nombre de usuario
+		RF-3.2 El sistema generará una contraseña y la enviará al correo electrónico del 			usuario.
+
+Permisos:
+RF-4 Los permisos definidos por el sistema son:
+	RF-4.1 Relativo a un usuario.
+		RF-4.1.1 Crear usuario.
+		RF-4.1.2 Eliminar usuario.
+		RF-4.1.3 Modificar usuario.
+		RF-4.1.4 Consultar usuario.
+
+
+Roles:
+Roles definido por el sistema:
+RF-5 El sistema proveerá los siguientes roles preestablecidos:
+	RF-5.1 Administrador: Contendrá los siguientes permisos.
+		RF-5.1 1 Crear usuario, Eliminar usuario, Modificar usuario, Consultar usuario.
+	RF-5.2 Abogado: Contendrá los siguientes permisos.
+		RF-5.2.1 Crear expediente, Eliminar expediente, Modificar expediente, Consultar 		expediente.
+	RF-5.3 Gestor: Contendrá los siguientes permisos.
+		RF-5.3.1 Consultar expediente.
+		RF-5.3.2 Modificar expediente
+			RF-5.3.2.1 Agregar documentos al expediente.
+			 RF-5.3.2.2 Eliminar documentos del expediente.
+Creación de usuarios:
+RF-6 El sistema permitirá al Administrador la creación de usuarios.
+RF-7 El sistema almacenará los siguientes datos de cada usuario: nombre, apellido, cédula,
+teléfono, dirección, nombre usuario, contraseña y un rol.
+	RF-7.1 Los atributos nombre de usuario, contraseña, nombre, apellido, numero de
+		documento y número de teléfono serán obligatorios.
+	RF-7.2 El sistema verificará que la contraseña secreta haya sido especificada
+		correctamente dado las siguientes reglas:
+		RF-7.2.1 Longitud mínima de 6 caracteres.
+		RF-7.2.2 La contraseña podrá incluir caracteres numéricos, alfabéticos,
+		símbolos y mayúsculas
+	RF-7.3 El sistema verificará que el nombre del usuario no exista en la base de datos.
+	RF-7.4 El sistema verificará que se haya seleccionado un rol para el usuario.
+
+
+
+
+Modificación y Eliminación de Usuarios:
+RF-8 El sistema permitirá al Administrador la modificación de los datos de usuarios:
+	RF-8.1 Cambiar los valores de los atributos: número de teléfono y dirección.
+
+RF-9 El sistema permitirá al Administrador la eliminación de usuarios.
+
+
++REQUERIMIENTOS NO FUNCIONALES
+
